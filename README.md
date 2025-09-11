@@ -17,6 +17,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
 
 ## 🛠️ Compétences
 
@@ -32,6 +33,9 @@
 
 - Nettoyage, jointures, agrégations, visualisation et storytelling (rapports interactifs).
 
+---
+
+
 ### 🤖 Data Science / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -41,6 +45,9 @@
 
 
 - Prétraitement, features, modèles ML classiques, évaluation et mise en production légère.
+
+---
+
 
 ### 🏗️ Data Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
