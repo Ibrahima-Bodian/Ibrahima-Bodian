@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Analytics
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=brahima-Bodian&show_icons=true&theme=radical)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ibrahima-Bodian&show_icons=true&theme=radical)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahima-Bodian&layout=compact&theme=radical)
 
 ---
