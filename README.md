@@ -1,8 +1,8 @@
 # Yo 👋, moi c'est Ibra Bodian
 
 ## 👨‍🎓 À propos de moi
-- 🎓 Étudiant iplômé en **BUT Science des Données** à L'Université Clermont-Auvergne IUT Aurillac
-- 🌱 En ce moment j’apprends **Data Analyse/Science/Engineer, IA, Cloud & Bases de données**
+- 🎓 Étudiant Diplômé en **BUT Science des Données** à L'Université Clermont-Auvergne, IUT Aurillac
+- 🌱 En ce moment j’apprends **Data Analyse/Science/Engineering, IA, Cloud & Bases de données**
 - 💡 Passionné par l’**analyse de données**, l’**IA générative**, la **Gestion de Données** et le **développement web**
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Analytics
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=brahima-Bodian&show_icons=true&theme=radical)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahima-Bodian&layout=compact&theme=radical)
 
 ---
