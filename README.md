@@ -78,10 +78,14 @@
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.bodian879@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-bodian-8a7328208/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrahima-Bodian)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://compfolio.uca.fr/view/view.php?t=aaa88baa2d51c7d119f7)
-[![Site perso](https://img.shields.io/badge/Site%20perso-ibrhma.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]
+
+[Site perso](https://img.shields.io/badge/Site%20perso-ibrhma.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)(https://ibrhma.netlify.app/)
 
 </div>
 
