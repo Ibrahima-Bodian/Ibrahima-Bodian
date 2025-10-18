@@ -1,4 +1,4 @@
-# Yo 👋, moi c'est Ibra Bodian
+# Bonjour, moi c'est Ibra Bodian
 
 ## 👨‍🎓 À propos de moi
 - 🎓 Étudiant Diplômé en **BUT Science des Données** à L'Université Clermont-Auvergne, IUT Aurillac
